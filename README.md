@@ -1,1 +1,1 @@
-live link: https://joswin18.github.io/Netflix-clone/
+live link: https://joswin18.github.io/Netflix_clone/
